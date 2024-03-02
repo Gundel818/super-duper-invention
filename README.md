@@ -1,4 +1,4 @@
-# Root for Xiaomi Mi 11 Lite 5G unlocked using Magisk
+# Root for Xiaomi Mi 11 Lite 5G (M2101K9G) unlocked using Magisk
 
 ## Prequerities 
 - Device and bootloader unlocked
