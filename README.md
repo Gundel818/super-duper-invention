@@ -6,7 +6,7 @@
 - Magisk installed
 - Platform-tools downloaded on PC
 
-### Phone steps
+### Device steps
 
 - Settings > About the device > MIUI version > 3 dots button at the top right corner > Download the last update package 
 
@@ -23,8 +23,8 @@
 
 - Open the `platform-tools` directory in a terminal
 
-- Check with `adb devices` command if your phone is listed : 
-    - If the device is shown as `unauthorized`, check your phone and accept the access request popup
+- Check with `adb devices` command if your device is listed : 
+    - If the device is shown as `unauthorized`, check your device and accept the access request popup
 
     - If the device is shown as `device`, then continue
 - Restart your device in fastboot mode with : `adb reboot bootloader`
